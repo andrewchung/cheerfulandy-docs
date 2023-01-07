@@ -4,3 +4,18 @@ site_name: medpyx Document Portal
 
 theme:
   name: material
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+plugins:
+  - privacy:
+      external_links_attr_map:
+        target: _blank
+  - search:
+
