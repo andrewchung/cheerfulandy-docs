@@ -12,6 +12,8 @@ Sometimes, we're frustrated because we're trying to control things that only God
 
 Are you frustrated because you're trying to do God's job? Take the pressure off. You don't have to make everything happen. You just have to stay faithful, keep being good to people, and keep God first place. Your time is coming. God always works out His plans.
 
+<hr> 
+
 ## A Prayer for Today
 
 *"Father, thank You that what lies ahead and is unknown to me is well known to You. I choose to stop trying to control what only you can control and leave it in Your hands. I trust that You will go before me with Your plan and get me to where I'm supposed to be. In Jesus' Name, Amen."*
