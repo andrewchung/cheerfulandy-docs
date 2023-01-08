@@ -4,7 +4,7 @@ title: "What You Can't Control"
 
 # What You Can't Control
 
-!!! quote "Today's Scripture - Psalm 138:8, NLT"
+??? quote "Today's Scripture - Psalm 138:8, NLT"
 
     *The LORD will work out his plans for my life--for your faithful love, O LORD, endures forever.*
 
