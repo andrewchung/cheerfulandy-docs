@@ -7,6 +7,7 @@ theme:
     - navigation.instant
   name: material
   palette:
+    - primary: indigo
 
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
@@ -30,6 +31,7 @@ theme:
 
 markdown_extensions:
   - admonition
+  - def_list
   - footnotes
   - pymdownx.details
   - pymdownx.superfences

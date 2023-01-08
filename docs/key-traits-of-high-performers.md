@@ -4,12 +4,13 @@ title: Key Traits of High Performers
 
 # Key Traits of High Performers
 
-!!! question "What does it mean to be a High Performer?"
+!!! info "High performers"
 
-    *High performers* are characterized by [Brendon Burchard](https://en.wikipedia.org/wiki/Brendon_Burchard) as ***people who succeed beyond standard measures consistently over the long term***.[^1]  
+    *High performers* are characterized by [Brendon Burchard](https://en.wikipedia.org/wiki/Brendon_Burchard) as ***people who succeed beyond standard measures consistently over the long term***.[^1]
 
-    For information on how you can get started, simply head over to [GrowthDay](http://www.highperformanceindicator.com) and take the assessment.  You can also grab a copy of Brendon's book **High Performance Habits: How Extraordinary People Become That Way** [here](https://www.amazon.ca/High-Performance-Habits-Extraordinary-People/dp/1401964117/ref=sr_1_1?crid=1NLA8N21YQU3E&keywords=high+performance+habits&qid=1673134373&sprefix=high+performance+habits%2Caps%2C89&sr=8-1).
-<br>
+!!! tip inline "How to get started"
+
+    For information on how you can get started on the path to becoming a *high performer*, head on over to [GrowthDay](http://www.highperformanceindicator.com) and take the 5-minute assessment.  You can also grab a copy of Brendon's book **High Performance Habits: How Extraordinary People Become That Way** [here](https://www.amazon.ca/High-Performance-Habits-Extraordinary-People/dp/1401964117/ref=sr_1_1?crid=1NLA8N21YQU3E&keywords=high+performance+habits&qid=1673134373&sprefix=high+performance+habits%2Caps%2C89&sr=8-1).
 
 - [x] High performers are more successful than their peers, yet they are less stressed.
 - [x] High performers love challenges and are more confident that they will achieve their goals despite adversity.  
