@@ -25,7 +25,7 @@ title: The Six High Performance Habits
 2. **Bring the joy**. Be responsible for the energy you bring to your day and each situation in life. Focus especially on bringing joy to your activities. Anticipate positive outcomes from your actions, ask yourself questions that generate positive emotions, set triggers to remind you to be positive and grateful, and appreciate the small things and the people around you.
 3. **Optimize Health**. If the demands of your life require you to learn quickly, deal with stress, be alert, pay attention, remember important things, and keep a positive mood, then you must take sleep, exercise, and nutrition more seriously. Work with your doctor and other professionals to optimize your health. You already know things you should be doing. Do them!
 
-### Habit Three: Increase Necessity
+### Habit Three: Raise Necessity
 
 !!! tip inline end "Necessity"
 
