@@ -9,6 +9,7 @@ title: The Six High Performance Habits
 ### Habit One: Seek Clarity
 
 !!! tip inline end "Clarity"
+
     *Seek clarity* on who you want to be, how you want to interact with others, and what will bring meaning into your life.
 
 1. **Envision the Future Four**. Have vision and consistently set clear intentions for who you want to be each day, how you want to interact with others, what skills you must develop to win in the future, and how you can make a difference and serve with excellence. Never enter a situation without thinking through these four categories (self, social, skills, service).

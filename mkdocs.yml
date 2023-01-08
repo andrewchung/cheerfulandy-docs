@@ -4,6 +4,7 @@ site_name: CheerfulAndy Docs
 
 theme:
   features:
+    - content.tooltips
     - navigation.instant
   name: material
   palette:
