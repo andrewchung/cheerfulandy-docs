@@ -6,7 +6,7 @@ title: "Take That Step of Faith"
 
 ??? quote "Today's Scripture - John 5:8, NLT"
 
-    *Jesus told him, "Stand up, pick up your mat, and walk!"
+    *Jesus told him, "Stand up, pick up your mat, and walk!"*
 
 Andrew, in John 5, when Jesus asked a disabled man, “Do you want to get well?” he made excuses and tried to justify his condition rather than answering, “Yes, that’s what I’m believing for.” After thirty-eight discouraging years of having this disability, the man had gotten comfortable in his dysfunction and lost his passion to be well. But when he heard Jesus’ call to do the impossible and rise up and walk, something rose up in him to try, and against all odds a sudden strength came into his legs and he was instantly healed.
 
